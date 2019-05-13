@@ -22,7 +22,7 @@ In this series of articles, I intend to explore how children in the UK growing u
 
 [Teaching](https://leiareid.github.io/teaching/)
 
-[Example: Mental Health](https://leiareid.github.io/health/)
+[Mental Health and mobility, in education](https://leiareid.github.io/example/)
 
 [Child Mobility Comparison](https://leiareid.github.io/comparison/)
 
