@@ -1,3 +1,15 @@
+## Navigation
+
+[Devolved funding & education](https://leiareid.github.io/funding/)
+
+[Teaching](https://leiareid.github.io/teaching/)
+
+[Mental Health and mobility, in education](https://leiareid.github.io/example/)
+
+[Child Mobility Comparison](https://leiareid.github.io/comparison/)
+
+[Sources](https://leiareid.github.io/sources/)
+
 ## Introduction
 
 Ah, austerity. It's just as british as tea-time, David Cameron’s secret society, and the Queen’s two birthdays. It was never intended to become an institution, but a whole generation of children have grown up in it, therefore jeopardizing their social mobility.   
@@ -20,6 +32,15 @@ Theresa May finally declared ‘austerity is over’ on October 3 2018.
 
 In this series of articles, I intend to explore how children in the UK growing up in ‘the age of austerity’ have been affected, chiefly in terms of education and its effect on children’s prospects. 
 
+Between 1998 and 2012 the number of children living in "relative poverty" in the UK had fallen by approximately 800,000 to a total of around 3.5 million. 2012’s Welfare Reform Act, increased the number of children in “relative poverty”. In 2019 1.4 million children will live in relative poverty.  In the years between 2012 and 2019, the number of children obtaining food from The Trussell Trust more than tripled. 
+
+Education, alongside healthcare, was ring fenced and therefore protected from cuts in 2010. But it’s budget has not risen in line with inflation, the rising number of children and a lack of teachers. 
+
+The money from local authorities and councils that would usually bridge these gaps was cut so dramatically they couldn’t keep up. The Local Government Association identified a decrease
+in UK Government funding of almost 60 per cent for local authorities in England and Wales between 2010 and 2020. 
+
+This reduction in central government funding for county councils in England combined with an increasing demand for social care services has caused reductions in a variety of local expenditure. Public libraries, bin collections, road maintenance, and Sure Start - the programme targeted to increasing education in families with kids under the age of four living in the most disadvantaged areas - and steep increases to council tax rates and the introduction of additional charges for county council services have been the most effected.
+
 ## Navigation
 
 [Devolved funding & education](https://leiareid.github.io/funding/)
@@ -31,14 +52,3 @@ In this series of articles, I intend to explore how children in the UK growing u
 [Child Mobility Comparison](https://leiareid.github.io/comparison/)
 
 [Sources](https://leiareid.github.io/sources/)
-
-Between 1998 and 2012 the number of children living in "relative poverty" in the UK had fallen by approximately 800,000 to a total of around 3.5 million. 2012’s Welfare Reform Act, increased the number of children in “relative poverty”. In 2019 1.4 million children will live in relative poverty.  In the years between 2012 and 2019, the number of children obtaining food from The Trussell Trust more than tripled. 
-
-Education, alongside healthcare, was ring fenced and therefore protected from cuts in 2010. But it’s budget has not risen in line with inflation, the rising number of children and a lack of teachers. 
-
-The money from local authorities and councils that would usually bridge these gaps was cut so dramatically they couldn’t keep up. The Local Government Association identified a decrease
-in UK Government funding of almost 60 per cent for local authorities in England and Wales between 2010 and 2020. 
-
-This reduction in central government funding for county councils in England combined with an increasing demand for social care services has caused reductions in a variety of local expenditure. Public libraries, bin collections, road maintenance, and Sure Start - the programme targeted to increasing education in families with kids under the age of four living in the most disadvantaged areas - and steep increases to council tax rates and the introduction of additional charges for county council services have been the most effected.
-
-
