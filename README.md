@@ -27,14 +27,14 @@ This reduction in central government funding for county councils in England comb
 
 **Navigation**
 
+[Devolved funding & education](https://leiareid.github.io/funding/)
+
 [Teaching](https://leiareid.github.io/teaching/)
 
-<a href="devolvedfunding/">Devolved Funding & Education</a>
+[Example: Mental Health](https://leiareid.github.io/health/)
 
-<a href="teaching/">Teaching in crisis</a>
+[Child Mobility Comparison](https://leiareid.github.io/comparison/)
 
-<a href="mental%20health">Example: Mental Health</a>
+[Sources](https://leiareid.github.io/sources/)
 
-<a href="mobility%20comparison/">Mobility Comparison</a>
 
-<a href="sources/">Sources & methodology</a>
