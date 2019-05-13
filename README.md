@@ -10,6 +10,10 @@ The first austerity programme was initiated in 2010 by the conservative and libe
 
 Theresa May finally declared ‘austerity is over’ on October 3 2018. 
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">We got there in the end - a remarkable national effort. Thank you.  <a href="https://t.co/8D23AKbuwH">https://t.co/8D23AKbuwH</a></p>&mdash; George Osborne (@George_Osborne) <a href="https://twitter.com/George_Osborne/status/969235865569394689?ref_src=twsrc%5Etfw">March 1, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 “We got there in the end - a remarkable national effort. Thank you.” decreed George Osborne on Twitter. Two years after the original austerity deadline. 
 
 >“Austerity is devastating these communities. The working poor, public sector workers, the disabled, and the vulnerable, are the hardest hit by this bankrupt and ideologically driven policy.” famously said Martin McGuinness, an Irish republican politician who, as a member of Sinn Féin, was the deputy First Minister of Northern Ireland for a decade.
