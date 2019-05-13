@@ -27,6 +27,8 @@ This reduction in central government funding for county councils in England comb
 
 **Navigation**
 
+[Teaching](../blob/gh-pages/teaching.md)
+
 <a href="devolvedfunding/">Devolved Funding & Education</a>
 
 <a href="teaching/">Teaching in crisis</a>
