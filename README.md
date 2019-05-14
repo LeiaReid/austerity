@@ -6,6 +6,8 @@
 
 [Mental Health and mobility, in education](https://leiareid.github.io/example/)
 
+[Austerity's affect on child welfare spending, and child mobility](https://leiareid.github.io/Welfare/)
+
 [Child Mobility Comparison](https://leiareid.github.io/comparison/)
 
 [Sources](https://leiareid.github.io/sources/)
